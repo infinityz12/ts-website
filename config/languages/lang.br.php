@@ -16,18 +16,18 @@ $lang["general"]["scripterror"] = "Erro Ocorrido! {0}: {1}";
 $lang["navbar"]["navigation"] = "Navegação";
 
 $lang["navbar"]["viewer"] = "Ver Servidor";
-$lang["navbar"]["bans"] = "Lista de Ban";
+$lang["navbar"]["bans"] = "Lista de Banidos";
 $lang["navbar"]["rules"] = "Regras do Servidor";
 $lang["navbar"]["menu"] = "Menu";
 
 $lang["navbar"]["connect"] = "Conectar ao Servidor";
-$lang["navbar"]["connecttooltip"] = "Click para se conectar {0}";
+$lang["navbar"]["connecttooltip"] = "Clique para se conectar {0}";
 
 
 /************* Rodapé *************/
 
 $lang["footer"]["css"] = "CSS por";
-$lang["footer"]["background"] = "background";
+$lang["footer"]["background"] = "Background";
 
 
 /************* Status do Servidor *************/
@@ -49,7 +49,7 @@ $lang["serverstatus"]["avgpl"] = "Perda de pacotes";
 $lang["adminlist"]["title"] = "Lista de Admin's";
 $lang["adminlist"]["emptygroup"] = "Este grupo esta vazio";
 $lang["adminlist"]["status"]["online"] = "Online";
-$lang["adminlist"]["status"]["away"] = "Away";
+$lang["adminlist"]["status"]["away"] = "Ausente";
 $lang["adminlist"]["status"]["offline"] = "Offline";
 $lang["adminlist"]["lastupdate"] = "Ultima atualização: {0}";
 
@@ -67,12 +67,12 @@ $lang["svpb"]["takealook"] = "Dê uma olhada &raquo;";
 
 /************* Noticias - index.php *************/
 
-$lang["index"]["title"] = "Noticias";
-$lang["index"]["showmore"] = "Ler Mais";
+$lang["index"]["title"] = "Notícias";
+$lang["index"]["showmore"] = "Mostrar Mais";
 $lang["index"]["showless"] = "Mostrar Menos";
 
-$lang["index"]["errortitle"] = "Error: Diretório de Noticias não encontrado!";
-$lang["index"]["errorsubtitle"] = "Porfavor tenha a certeza que o arquivo no diretório <b><code>config/config.php</code></b> está valido.";
+$lang["index"]["errortitle"] = "Erro: Diretório de Noticias não encontrado!";
+$lang["index"]["errorsubtitle"] = "Por favor tenha a certeza que o arquivo no diretório <b><code>config/config.php</code></b> está valido.";
 
 
 /************* Server viewer - viewer.php *************/
@@ -83,15 +83,15 @@ $lang["viewer"]["lastupdate"] = "Ultima Atualização: {0}";
 
 /************* Lista de Bans - bans.php *************/
 
-$lang["banlist"]["title"] = "Lista de Ban";
+$lang["banlist"]["title"] = "Lista de Banidos";
 $lang["banlist"]["datatablesurl"] = "//cdn.datatables.net/plug-ins/1.10.12/i18n/English.json";
 $lang["banlist"]["emptylist"] = "Lista de Ban está vazia";
 $lang["banlist"]["lastupdate"] = "Ultima Atualização: {0}";
 
 $lang["banlist"]["table"]["emptyreason"] = "(sem reação)";
-$lang["banlist"]["table"]["permaban"] = "Nunca";
+$lang["banlist"]["table"]["permaban"] = "Permanente";
 
-$lang["banlist"]["table"]["nickname"] = "Nick";
+$lang["banlist"]["table"]["nickname"] = "Nome";
 $lang["banlist"]["table"]["reason"] = "Reação";
 $lang["banlist"]["table"]["bannedby"] = "Banido por";
 $lang["banlist"]["table"]["bandate"] = "Data do Ban";
